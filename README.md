@@ -1,4 +1,4 @@
-# CERN spam classifier <br> 
+# CERN Zenodo - Adaptable Spam Filter Modelling <br> 
 
 **Abstract** <br>
 Zenodo is a digital scientific research repository operated by CERN. The platform is widely used by researchers and scientists as it enables the sharing, preservation and citation of research papers, data, and software at a very large scale. As a result of its popularity and growing scale, Zenodo has been a target for spam content since its launch in 2013. Their current ML-based spam detection models, however, are not performant enough, often requiring a significant amount of resources and time for manual checking. In this paper, we present the development of a production-ready text-based spam classifier achieving 98.8% accuracy along with a 98.2 F1- score by fine-tuning BERT, the state-of-the-art NLP model by Google, for spam classification.
